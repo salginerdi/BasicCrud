@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Erdi",
+      "email": "example@example.com",
+      "phone": "546 978 80 23",
+      "website": "hildegard.net"
+    },
+    {
+      "id": "3",
+      "name": "Veli",
+      "email": "example@example.com",
+      "phone": "546 978 80 25",
+      "website": "fell.net"
+    },
+    {
+      "id": "4",
+      "name": "Deli",
+      "email": "example@example.com",
+      "phone": "546 978 80 26",
+      "website": "yesenia.com"
+    },
+    {
+      "id": "5",
+      "name": "Kelly",
+      "email": "example@example.com",
+      "phone": "546 978 80 27",
+      "website": "hildegard.com"
+    },
+    {
+      "id": "6",
+      "name": "Melly",
+      "email": "example@example.com",
+      "phone": "546 978 80 28",
+      "website": "nathan.org"
+    },
+    {
+      "id": "7",
+      "name": "Kitty",
+      "email": "example@example.com",
+      "phone": "546 978 80 29",
+      "website": "kitty.net"
+    },
+    {
+      "id": "8",
+      "name": "Mitty",
+      "email": "example@example.com",
+      "phone": "546 978 80 30",
+      "website": "mitty.net"
+    },
+    {
+      "id": "1",
+      "name": "Erdi Salgın",
+      "email": "vodafone@vodafone.com",
+      "phone": "42323423"
+    }
+  ]
+}

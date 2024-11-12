@@ -1,5 +1,7 @@
 # React ile Basit CRUD Uygulaması (React Router DOM, Bootstrap ve db.json Kullanarak)
 
+Ön izlemek için: https://basic-crud-eight.vercel.app/
+
 Bu proje, **React Router DOM** ile yönlendirme, **Bootstrap** ile stil, ve veri depolamak için **db.json** kullanan basit bir React uygulaması olup, CRUD (Create, Read, Update, Delete - Oluştur, Oku, Güncelle, Sil) işlemlerini göstermektedir.
 
 ## Özellikler
@@ -20,6 +22,8 @@ Bu proje, **React Router DOM** ile yönlendirme, **Bootstrap** ile stil, ve veri
 ---------------------------------------------------------
 
 # Simple CRUD Application with React, React Router DOM, Bootstrap, and db.json
+
+to Preview: https://basic-crud-eight.vercel.app/
 
 This project is a basic React application that demonstrates CRUD (Create, Read, Update, Delete) operations using **React Router DOM** for routing, **Bootstrap** for styling, and **db.json** as a local JSON server for storing data.
 
